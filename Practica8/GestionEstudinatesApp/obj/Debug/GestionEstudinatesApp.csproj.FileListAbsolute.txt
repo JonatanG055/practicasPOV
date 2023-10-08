@@ -1,0 +1,13 @@
+E:\progtramcionEventos\practicasPOV\GestionEstudinatesApp\bin\Debug\GestionEstudinatesApp.exe.config
+E:\progtramcionEventos\practicasPOV\GestionEstudinatesApp\bin\Debug\GestionEstudinatesApp.exe
+E:\progtramcionEventos\practicasPOV\GestionEstudinatesApp\bin\Debug\GestionEstudinatesApp.pdb
+E:\progtramcionEventos\practicasPOV\GestionEstudinatesApp\obj\Debug\GestionEstudinatesApp.csproj.AssemblyReference.cache
+E:\progtramcionEventos\practicasPOV\GestionEstudinatesApp\obj\Debug\GestionEstudinatesApp.Form1.resources
+E:\progtramcionEventos\practicasPOV\GestionEstudinatesApp\obj\Debug\GestionEstudinatesApp.Properties.Resources.resources
+E:\progtramcionEventos\practicasPOV\GestionEstudinatesApp\obj\Debug\GestionEstudinatesApp.csproj.GenerateResource.cache
+E:\progtramcionEventos\practicasPOV\GestionEstudinatesApp\obj\Debug\GestionEstudinatesApp.csproj.CoreCompileInputs.cache
+E:\progtramcionEventos\practicasPOV\GestionEstudinatesApp\obj\Debug\GestionEstudinatesApp.exe
+E:\progtramcionEventos\practicasPOV\GestionEstudinatesApp\obj\Debug\GestionEstudinatesApp.pdb
+E:\progtramcionEventos\practicasPOV\GestionEstudinatesApp\bin\Debug\System.Data.SqlClient.dll
+E:\progtramcionEventos\practicasPOV\GestionEstudinatesApp\bin\Debug\System.Data.SqlClient.xml
+E:\progtramcionEventos\practicasPOV\GestionEstudinatesApp\obj\Debug\GestionEstudinatesApp.csproj.CopyComplete
